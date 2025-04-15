@@ -1871,7 +1871,7 @@ align-items: center;
 }
 
 .section8 > .sec8innerbox > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section8 > .sec8innerbox > .ul-list > ul{
@@ -1897,7 +1897,7 @@ align-items: center;
 }
 .section8 > .sec8innerbox > .ul-list > ul > li::before{
   content: ".";
-  color: aqua;
+  color: #00B0BA;
   font-size: 50px;
   margin: 10px;
 }
@@ -1961,7 +1961,7 @@ align-items: center;
 }
 
 .section9 > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section9 > h1 > .dark {
@@ -2004,7 +2004,7 @@ align-items: center;
 }
 
 .section10 > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section10 > p {
@@ -2066,7 +2066,7 @@ align-items: center;
 }
 
 .section10 > .grp-image > .image1 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section10 > .grp-image > .image2 {
@@ -2106,7 +2106,7 @@ align-items: center;
 }
 
 .section10 > .grp-image > .image2 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 
@@ -2138,7 +2138,7 @@ align-items: center;
 }
 
 .section11 > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section11 > .images {
@@ -2396,7 +2396,7 @@ align-items: center;
 }
 
 .section13 > h3 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 /* section14 */
@@ -2442,7 +2442,7 @@ align-items: center;
 }
 
 .section14 > .box1 > .content > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section14 > .box1 > .content > p {
@@ -2544,7 +2544,7 @@ align-items: center;
 }
 
 .section15 > h3 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section15 > h1 {
@@ -2556,7 +2556,7 @@ align-items: center;
 }
 
 .section15 > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section15 > .images {
@@ -2602,7 +2602,7 @@ align-items: center;
 }
 
 .section15 > .images > .imgbox1 > h2 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section15 > .images > .imgbox1 > p {
@@ -2680,7 +2680,7 @@ align-items: center;
 }
 
 .section16 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section16 > .img {
@@ -3168,7 +3168,7 @@ footer > h3 {
 }
 
 .section18 > .head > h1 > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 .section18 > .head > h1 > .colorr {
@@ -3265,7 +3265,7 @@ footer > h3 {
 }
 
 .section18 > .body > .step1 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 
@@ -3322,7 +3322,7 @@ footer > h3 {
 }
 
 .section18 > .body > .step2 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 
@@ -3379,7 +3379,7 @@ footer > h3 {
 }
 
 .section18 > .body > .step3 > p > span {
-  color: aqua;
+  color: #00B0BA;
 }
 
 
